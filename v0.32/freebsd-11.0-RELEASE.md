@@ -33,7 +33,7 @@ As wekan
 	$ npm install
 	$ npm install fibers
 
-## First run
+## Run
 
 Considering that the default shell for a new user on FreeBSD is `/bin/sh`, the following ENV variables must be set according the following method before starting of Wekan. These must be adapted according the shell.
 
