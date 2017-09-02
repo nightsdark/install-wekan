@@ -35,7 +35,7 @@ As wekan
 
 ## First run
 
-Considering that the default shell for a new user on FreeBSD is /bin/sh, the following ENV variables must be set according the following method before starting of Wekan. These must be adapted according the shell.
+Considering that the default shell for a new user on FreeBSD is `/bin/sh`, the following ENV variables must be set according the following method before starting of Wekan. These must be adapted according the shell.
 
 	$ MONGO_URL=mongodb://127.0.0.1:27017/wekan; export MONGO_URL
 	$ ROOT_URL=https://example.com; export ROOT_URL
